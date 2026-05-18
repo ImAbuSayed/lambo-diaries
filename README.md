@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lambo-diaries/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Lambo Diaries](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lambo-diaries/) |
+| **Get License** | [Get a Licensing Quote for Lambo Diaries](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lambo-diaries/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri akhiyan da nasha meri jaan kad da
+> Lambo vich baithe billo hath naiyo chad da
+> We can hit the city baby touch the sky
+> Tere bina sohniye mera dil nahio lagda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
